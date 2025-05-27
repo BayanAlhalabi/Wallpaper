@@ -281,7 +281,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     window.addEventListener('load', preloadImages);
 });
-// Handling a click on the "Home" link to scroll to the top
+// Handling a click on the "Home" link to scroll to the top==========***
  const homeLink = document.querySelector('header nav a[href="#Home"]');
 
  if (homeLink) {
